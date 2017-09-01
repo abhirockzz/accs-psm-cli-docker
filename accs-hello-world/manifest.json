@@ -1,0 +1,5 @@
+{
+  "runtime":{"majorVersion":"8"},
+  "command":"java -jar accs-hello-world.jar",
+  "notes":"Sample app on ACCS"
+}
